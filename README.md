@@ -31,5 +31,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/william-james-pj/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-William%20James-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/william._.james/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-william.__.james-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto: william.james@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-william.james@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto: william.james.pj@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-william.james.pj@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
