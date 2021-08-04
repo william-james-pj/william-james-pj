@@ -12,7 +12,12 @@
 
 <br/>
 
-<h3>🌐</h2>
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-james-pj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-james-pj&layout=compact&theme=dracula" />
+</div>
+
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -22,10 +27,3 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
-
-<hr><br/>
-
-<div style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-james-pj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-james-pj&layout=compact&theme=dracula" />
-</div>
